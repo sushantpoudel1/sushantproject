@@ -76,6 +76,7 @@ section{
 
 #skills .section-details ul li{
 	width: 25%;
+	font-size: 20px;
 }
 
 #skills {
@@ -92,7 +93,9 @@ section{
 #about .section-details .about-content span{
 	color: #C51F8C;
 }
-
+#about .about-content{
+	font-size: 20px;
+}
 .section-details{
 	width: 80%;
 	margin: 0px auto;
